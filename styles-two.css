@@ -1529,28 +1529,29 @@
     #try-again {
         width: 299px;
         bottom: 343px;
-        left: 368px;
+        left: 389px;
     }
     
     .wheel-button {
         width: 215px;
         height: 60px;
         bottom: 270px;
-        left: 416px;
+        left: 434px;
     }
 
     #you-win {
-        left: 269px;
+        left: 291px;
         width: 469px;
         bottom: 213px;
     }
     
     .win-wheel-button {
-        left: 370px;
+        left: 395px;
         width: 291px;
         height: 68px;
         bottom: 262px;
     }
+
 
     .win-inner-wheel-btn{
         font-size: 23px;
